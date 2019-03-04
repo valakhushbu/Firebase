@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">User Management</string>
+    <string name="login">LogIn</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="login_here">LogIn here</string>
+    <string name="singup_here">SignUp here</string>
+    <string name="singup">SignUp</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="minimum_password">minimum password</string>
+    <string name="auth_failed">authentication fail</string>
+    <string name="change_password">Change Password here</string>
+    <string name="your_new_password">Your New Password</string>
+    <string name="your_old_password">Your Old Password</string>
+    <string name="your_new_password_type_again">Your New Password type again</string>
+    <string name="delete_your_account">Delete Your Account</string>
+    <string name="about">About</string>
+    <string name="setting">Setting</string>
+    <string name="singOut">SignOut</string>
+    <string name="forget_pass">Forget Password</string>
+</resources>
